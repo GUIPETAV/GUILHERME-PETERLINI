@@ -5,8 +5,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/guipetav?label=Follow&style=social)
 
 
-### Hi there 👋
-**Be welcome to my profile on Github. :octocat:**
+### Olá! 👋
+**Sejam bem-vindos ao meu perfil. :octocat:**
 <p>In here, you will have access to some of my latest mobile and web projects. Please, feel free to send me suggestions, critics, and improvements.</p>
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guipetav&layout=compact)
