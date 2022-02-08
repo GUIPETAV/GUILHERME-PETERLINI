@@ -7,6 +7,6 @@
 
 ### Olá! 👋
 **Sejam bem-vindos ao meu perfil. :octocat:**
-<p>Eu sou o Guilherme Peterlini e, esse é o meu repositório no qual vou compartilhar meus projetos que desenvolvo para automatizar algumas rotinas de trabalho e outrosa projetos da minha trilha de aprendizagem na linguagem Python. </p>
+<p>Eu sou o Guilherme Peterlini e, esse é o meu repositório no qual vou compartilhar meus projetos que desenvolvo para automatizar algumas rotinas de trabalho e outros rojetos da minha trilha de aprendizagem na linguagem Python. </p>
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guipetav&layout=compact)
