@@ -7,7 +7,7 @@
 
 ### Olá! 👋
 **Sejam bem-vindos ao meu perfil. :octocat:**
-<p> Eu sou o Guilherme Peterlini e, atualmento sou mestrando em Informática Aplicada na Universidade Federal do Espírito Santo   </p>
+<p> Eu sou o Guilherme Peterlini e,    </p>
 
   
 
